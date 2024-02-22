@@ -3,6 +3,7 @@
 ## 🌱 I'm currently learning
 
 - Machin Learning Algorithms
+- Working on Information and Coding Theory
 - Python Basics
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Horadmard)](https://github.com/Horadmard)
