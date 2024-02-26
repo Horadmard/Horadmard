@@ -3,6 +3,7 @@
 ## 🌱 I'm currently learning
 
 - Machin Learning Algorithms
+- Some Cryptography and Compression Algorithms
 - Working on Information and Coding Theory
 - Python Basics
 
