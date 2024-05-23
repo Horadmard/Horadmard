@@ -1,4 +1,4 @@
-# He110 there!
+# Hello there!
 
 ## 🌱 I'm currently learning
 
