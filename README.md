@@ -14,7 +14,7 @@
 
 <a href="https://www.linkedin.com/in/hossein-radmard-18460927b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Horad | LinkedIn" width="40px"/></a>
 <a href="https://t.me/whatisthisicameheretobetested"><img align="left" src="https://avatars.githubusercontent.com/u/84450720?v=4" alt="Horad | Telegram" width="45px"/></a>
-<a href="https://mail.google.com/mail/u/0/#inbox?compose=iranradmard1@gmail.com"><img align="left" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" width="50px"/></a>
+<a href="mailto:iranradmard1@gmail.com"><img align="left" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" width="50px"/></a>
 
 <br>
 <br>
