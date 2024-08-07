@@ -2,8 +2,8 @@
 
 ## 🌱 I'm currently learning
 
-- Machin Learning Algorithms
-- Some Cryptography and Compression Algorithms
+- API and Documentation of platforms
+- Linux commands and server-side stuff
 - Working on Information and Coding Theory
 - Python Basics
 
