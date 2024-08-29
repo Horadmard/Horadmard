@@ -10,6 +10,9 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Horadmard)](https://github.com/Horadmard)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horadmard&layout=compact)](https://github.com/Horadmard)
 
+<br />
+<br />
+
 <div align="center" >
   <div id="badges">
     <a href="https://www.linkedin.com/in/hossein-radmard1/">
@@ -22,7 +25,6 @@
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=manimozaffar&style=for-the-badge&color=blueviolet" alt="my profile views"/>
 </div>
 <br />
 
