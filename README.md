@@ -10,14 +10,19 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Horadmard)](https://github.com/Horadmard)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Horadmard&layout=compact)](https://github.com/Horadmard)
 
-## 🤝 Connect with me:
-
-<a href="https://www.linkedin.com/in/hossein-radmard-18460927b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Horad | LinkedIn" width="40px"/></a>
-<a href="https://t.me/whatisthisicameheretobetested"><img align="left" src="https://avatars.githubusercontent.com/u/84450720?v=4" alt="Horad | Telegram" width="45px"/></a>
-<a href="mailto:iranradmard1@gmail.com"><img align="left" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png?f=webp&w=256" width="50px"/></a>
-
-<br>
-<br>
-
-## 🎉 Cheers everyone!
+<div align="center" >
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/hossein-radmard1/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:iranradmard1@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://t.me/eeexclusivee">
+      <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=manimozaffar&style=for-the-badge&color=blueviolet" alt="my profile views"/>
+</div>
+<br />
 
